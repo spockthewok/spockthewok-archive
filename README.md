@@ -10,23 +10,60 @@ a particular post you're looking for that isn't currently archived, please open 
 If you're only wanting to know why I nuked everything, see [here](https://i.kym-cdn.com/photos/images/newsfeed/003/228/879/0d5.jpg).
 
 ## Navigation
-**April 2026:**
+<details>
+
+<summary><b>April 2026</b></summary>
+<p></p>
+
 - [Explaining the Pink Soup (In Layman's Terms)](posts/2026-04-24.md)
 
-**May 2026:**
+</details>
+
+<details>
+
+<summary><b>May 2026</b></summary>
+<p></p>
+
 - [Object Limit 2: Electric Boogaloo](posts/2026-05-11.md)
 
-**June 2026:**
+</details>
+
+<details>
+
+<summary><b>June 2026</b></summary>
+<p></p>
+
 - [TS2 Water Mod Update](posts/2026-06-08.md)
 
-**July 2026:**
+</details>
+
+<details>
+
+<summary><b>July 2026</b></summary>
+<p></p>
+
 - [Ask from wisbridgesims](posts/2026-07-05.md)
 
-**August 2026:**
+</details>
+
+<details>
+
+<summary><b>August 2026</b></summary>
+
 - [TS2 Visible Hood FX](posts/2026-08-05.md)
+
 - [Exploding Imposter Research](posts/2026-08-23.md)
+
 - [TS2 Visible Hood FX v1.2.0](posts/2026-08-27.md)
 
-**September 2026:**
+</details>
+
+<details>
+
+<summary><b>September 2026</b></summary>
+
 - [TS2 Pond Reflection Experiments](posts/2026-09-15.md)
+
 - [A Parting Gift](posts/2026-09-22.md)
+
+</details>
